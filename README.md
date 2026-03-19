@@ -1,16 +1,17 @@
 # Operational Error Analyzer
 
-Python project analyzing operational error patterns in inventory workflows to identify recurring issues and root causes.
+This project demonstrates how operational data analysis can uncover
+systemic process failures in warehouse environments.
 
-## Project Goal
-Operational environments such as warehouses and logistics systems often experience recurring process errors that lead to delays, rework, and financial loss.
+Using Python, the analysis identifies:
 
-This project simulates operational error data and applies Python-based analysis to identify:
+- The most common operational errors
+- Workflow steps where failures occur
+- Errors with the greatest operational time cost
+- Recurring error chains across processes
 
-- Most frequent operational errors
-- Root causes behind repeated failures
-- Process steps generating the most issues
-- Estimated operational impact
+The project demonstrates how data analytics can support
+process improvement and operational decision-making.
 
 ## Tools Used
 - Python
