@@ -119,3 +119,34 @@ These factors highlight the importance of combining data analysis with operation
 ---
 
 ## Project Structure
+warehouse_operational_error_analysis.ipynb  # Full analysis
+README.md                                  # Project summary
+data/                                      # (Optional) dataset or synthetic data
+notebooks/                                 # (Optional) development notebooks
+
+---
+
+## How to Run This Project
+
+1. Clone the repository:
+git clone https://github.com/aesquivel94/operational-error-analyzer.git
+
+2. Install dependencies:
+pip install pandas numpy matplotlib seaborn plotly scikit-learn
+
+3. Open the notebook:
+jupyter notebook warehouse_operational_error_analysis.ipynb
+
+---
+
+---
+
+## Notes
+
+This project uses synthetic data designed to simulate realistic warehouse operations.
+
+## Author
+
+Alejandra Esquivel  
+Data Analyst | Data Specialist | Statistician  
+
