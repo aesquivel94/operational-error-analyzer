@@ -8,6 +8,10 @@ This project analyzes warehouse operational errors to identify high-impact failu
 
 The analysis combines error frequency, time impact, process distribution, and error propagation patterns to prioritize interventions that reduce inefficiency and prevent downstream failures.
 
+## Project Preview
+
+![Project Preview](project_preview.png)
+
 ---
 
 ## Business Problem
