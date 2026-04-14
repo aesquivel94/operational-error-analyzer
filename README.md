@@ -1,5 +1,7 @@
 # Warehouse Error Analysis: Identifying High-Impact Failures and Propagation Patterns
 
+*A data analysis and machine learning project focused on identifying high-impact warehouse failures and supporting data-driven operational decision-making.*
+
 ## Overview
 
 This project analyzes warehouse operational errors to identify high-impact failure points, understand how errors propagate across workflows, and support data-driven operational improvements.
