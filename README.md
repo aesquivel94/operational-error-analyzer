@@ -134,15 +134,16 @@ notebooks/                                 # (Optional) development notebooks
 
 ## How to Run This Project
 
+This project uses a Jupyter Notebook for analysis and visualization.
+
 1. Clone the repository:
 git clone https://github.com/aesquivel94/operational-error-analyzer.git
 
 2. Install dependencies:
-pip install pandas numpy matplotlib seaborn plotly scikit-learn
+pip install -r requirements.txt
 
 3. Open the notebook:
 jupyter notebook warehouse_operational_error_analysis.ipynb
-
 ---
 
 ---
